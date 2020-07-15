@@ -1,6 +1,49 @@
 body{
-	background: url(wesley-armstrong-nHiHlygYQhA-unsplash.jpg) no-repeat center center fixed;
+	background: url("moons.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+}
+
+h6{
+	color:white;
+	text-align: center;
+	font-family: 'Bungee', cursive;
+}
+
+h2{
+	color: white;
+	text-align: center;
+	font-family: 'Bungee', cursive;
+	font-size: 50px;
+}
+
+div.buttons{
+	display: flex;
+	justify-content: center;
+}
+
+
+#projects, #blog, #about{
+	background-color:black;
+	color:white;
+	margin:10px;
+	border: 1px solid grey;
+	padding:5px;
+	border-radius: 7px;
+	font-family: 'Bungee', cursive;
+}
+
+.box{
+    color:white;
+    text-align: center;
+    padding: 10em 5px;
+    margin-bottom: 10em
+
+}
+
+ .one{
+   border-shadow
+}
+
